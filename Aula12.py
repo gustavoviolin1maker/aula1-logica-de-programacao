@@ -4,7 +4,5 @@ reajuste = float(input("Digite o percentual de reajuste: "))
 
 calculo = salario+(salario*reajuste/100)
 
-print("Olá ",nome,"Seu salário reajustado é :" ,calculo,);
-
-
+print("Olá ",nome,"Seu salário reajustado é :" ,calculo,)
 
